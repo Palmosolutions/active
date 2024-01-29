@@ -1,4 +1,5 @@
 {
+  "version": "10.0.1",
   "name": "briareos17/active",
   "description": "The helper class for Laravel applications to get active class base on current route",
   "keywords": [
