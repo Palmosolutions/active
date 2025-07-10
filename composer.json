@@ -1,5 +1,5 @@
 {
-  "version": "11.0.1",
+  "version": "12.0",
   "name": "palmosolutions/active",
   "description": "The helper class for Laravel applications to get active class base on current route",
   "keywords": [
